@@ -1,6 +1,6 @@
 # 💫 About Me:
 ⛏ Trying to learn app development<br>
-👨‍💻 Python Developer (2 years) <br>
+👨‍💻 Python Developer (3 years) <br>
 🎓 Highload/Monoliths/Microservices <br>
 🎓 Distributed systems <br>
 🎓 Blockchain Development <br>
